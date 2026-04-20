@@ -1,0 +1,5 @@
+{
+  "name": "Finance Tracker",
+  "description": "Automated personal finance tracking system that extracts transaction data from HDFC Bank emails and provides spending insights.",
+  "requestFramePermissions": []
+}
